@@ -1,5 +1,3 @@
-# SOC-Analyst-Homelab-Real-World-Threat-Detection-with-Splunk-Sysmon-Zeek-MITRE-ATTACK
-SOC-style homelab simulating real-world detection workflows using Splunk, Sysmon, Zeek, Hydra, Nessus, and MITRE ATT&amp;CK. Built to mirror the tools and techniques used in modern Blue Teams.
 # SOC Analyst Homelab: Real-World Threat Detection with Splunk, Sysmon, Zeek, Suricata & MITRE ATT&CK
 
 This homelab simulates a real-world Security Operations Center (SOC) environment, built to practice detection engineering, threat analysis, and incident triage. Using enterprise-grade tools like Splunk, Suricata, Zeek, and Nessus, this project mirrors the tools and techniques used by modern Blue Teams.
