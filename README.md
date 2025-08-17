@@ -26,6 +26,7 @@ This homelab simulates a real-world Security Operations Center (SOC) environment
 - Detected multiple EventCode 4625 login failures  
 - Logged and correlated events in Splunk SIEM using Sysmon and Universal Forwarder  
 - Mapped detection to MITRE ATT&CK T1110: Brute Force  
+![Brute Force GIF](https://github.com/user-attachments/assets/8accb8a5-146a-4fcd-870b-8e6d7511df47)
 
 ### Network-Based Threat Analysis
 - Monitored traffic with Suricata to detect known signatures and suspicious payloads  
