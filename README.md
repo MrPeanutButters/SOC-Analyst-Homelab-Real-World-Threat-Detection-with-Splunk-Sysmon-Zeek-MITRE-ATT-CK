@@ -6,6 +6,8 @@ This homelab simulates a real-world Security Operations Center (SOC) environment
 
 ## Lab Setup
 
+![1753555582330](https://github.com/user-attachments/assets/f0dcd576-08c9-4317-8f78-d3b0fd7ad311)
+
 | Role | Tool | Description |
 |------|------|-------------|
 | SIEM | Splunk Enterprise | Ingests and correlates logs from endpoint and network data sources |
