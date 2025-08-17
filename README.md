@@ -32,6 +32,7 @@ This homelab simulates a real-world Security Operations Center (SOC) environment
 - Monitored traffic with Suricata to detect known signatures and suspicious payloads  
 - Parsed protocol activity using Zeek for post-exploitation insight  
 - Verified IDS alerts and correlated them with endpoint events in Splunk  
+<img width="720" height="720" alt="Screenshot 2025-08-04 192432" src="https://github.com/user-attachments/assets/f17cd0b9-1a6d-49a0-867e-e7bda0884c51" />
 
 ---
 
